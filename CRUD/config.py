@@ -2,6 +2,6 @@ DB_CONFIG = {
     'host':     'localhost',
     'database': 'sakila',
     'user':     'root',
-    'password': 'krono',
+    'password': 'Yzma@2019',
     'port':     3306
 }
